@@ -1,5 +1,5 @@
 {
-  "name": "suitcss-base",
+  "name": "cata-base",
   "version": "4.0.0",
   "description": "CSS base styles",
   "keywords": [
@@ -10,10 +10,10 @@
     "suitcss",
     "style"
   ],
-  "homepage": "https://github.com/suitcss/base#readme",
-  "bugs": "https://github.com/suitcss/base/labels/bug",
+  "homepage": "https://github.com/raulghm/cata-base#readme",
+  "bugs": "https://github.com/raulghm/cata-base/labels/bug",
   "license": "MIT",
-  "author": "Nicolas Gallagher",
+  "author": "Raul Hernandez",
   "files": [
     "index.css",
     "index.js",
@@ -22,7 +22,7 @@
   "style": "index.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/suitcss/base.git"
+    "url": "git://github.com/raulghm/cata-base.git"
   },
   "scripts": {
     "build": "npm run setup && npm run preprocess",
